@@ -1,6 +1,6 @@
 # pi-retro-gaming
-Raspberry Pi Retro Gaming Project
+PI RETRO GAMING 
 
-First Raspberry Pi project. The goal is to personalize the outside of a Raspberry Pi 4 and configure a lightweight distro used exclusively for emulation. 
+This is my first Raspberry Pi project. The goal here is to customize a Raspberry Pi 4 and configure a lightweight distro used exclusively for gaming  emulation (I might end up also setting up a pi-hole). 
 
-For this project, I'll be needing the Pi Board, some peripherals, a microSD card and a Pi Case.
+I'll use this repository to track all my progress within this project. 
